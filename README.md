@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-📶:#Statistics:
-<h2 align="left" style="color:#92E3A9" >📶:#Statistics: </h2>
+#Statistics
+<h2 align="left" style="color:#92E3A9" >📊 Statistics: </h2>
 <center>
 <table>
 <tr>
