@@ -6,7 +6,7 @@
 <table>
 <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Antonio-Oliveira&show_icons=true&theme=radical&count_private=true" alt="Antonio-Oliveira GitHub stats" /> </td>
-    <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical" alt="Antonio-Oliveira Top languages" /></td>
+    <td><<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical&&layout=compact" alt="Antonio-Oliveira Top languages" /></td>
 <tr>
 </table>
 </center>
