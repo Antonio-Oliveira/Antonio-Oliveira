@@ -10,10 +10,10 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-< A  href =" https://github.com/anuraghazra/github-readme-stats " > 
+<a  href =" https://github.com/anuraghazra/github-readme-stats " > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = anuraghazra & repo = github-leia-me-stats "/>
  </ a > 
-< a  href =" https://github.com/anuraghazra/convoychat " > 
+<a  href =" https://github.com/anuraghazra/convoychat " > 
   < img  align =" center " src =" https: // github -readme-stats.vercel.app/api/pin/?username=anuraghazra&repo = convoychat "/>
  </ a>
 
