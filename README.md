@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="center">![Antonio-Oliveira GitHub stats] </h4>
+<h4 align="center">GitHub stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Antonio-Oliveira&show_icons=true&theme=radical&count_private=true" alt="Antonio-Oliveira GitHub stats" /></p>
 
