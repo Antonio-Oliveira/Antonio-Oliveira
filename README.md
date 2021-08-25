@@ -1,15 +1,20 @@
 ### Hi there 👋
 
 <h2 align="left" style="color:#92E3A9" >Statistics: </h2>
-<center>
-<table>
-<tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Antonio-Oliveira&show_icons=true&theme=radical&count_private=true" alt="Antonio-Oliveira GitHub stats" /> </td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical&&layout=compact" alt="Antonio-Oliveira Top languages" /></td>
-<tr>
-</table>
-</center>
 
+<div>
+    <a href="https://github.com/Antonio-Oliveira"></a>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Antonio-Oliveira&show_icons=true&theme=radical&count_private=true" alt="Antonio-           Oliveira GitHub stats" />
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical&&layout=compact"                 alt="Antonio-Oliveira Top languages" />
+</div>
+
+</br>
+
+<h2 align="left" style="color:#92E3A9"> My Skills: </h2>
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" style="max-width: 100%;"></img>
+</div>
 
 
 
