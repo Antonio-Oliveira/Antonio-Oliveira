@@ -1,7 +1,7 @@
-## Hi, Welcome to my profile  👽👽👽
+## Hi, Welcome to my profile 🛸🛸🛸
 
 
-#### I'm Antonio Oliveira
+#### I'm Antonio Oliveira 
 #### I'm on my way to being a full stack developer
 
 &nbsp;
