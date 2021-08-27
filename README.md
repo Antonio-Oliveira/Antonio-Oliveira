@@ -1,9 +1,29 @@
-### Hi there 👋
+## Hi, Welcome to my profile  👋
 
 
+#### I'm Antonio Oliveira
+#### I'm on my way to being a full stack developer
 
+&nbsp;
 
-<h2 align="left" style="color:#92E3A9"> My Skills: </h2>
+<div align="center">
+    <a href="https://www.instagram.com/tonyjoliveira/">
+        <img alt="Intagram Tony Oliveira" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/tony.oliveira.1217">
+        <img alt="Facebook Antonio Oliveira" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/tonyjoliveira">
+        <img alt="Linkedin Antonio Oliveira" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:antonio_jorge15@hotmail.com">
+        <img alt="Hotmail Antonio Oliveira" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </a>
+</div>
+
+&nbsp;
+
+<h2 align="left" style="color:#92E3A9;">🐱‍👤 My Skills: </h2>
 
 <div align="center">
     <a href="https://docs.oracle.com/en/java/">
@@ -54,18 +74,14 @@
 </div>
 
 
-<h2 align="left" style="color:#92E3A9" >Statistics: </h2>
+
+<h2 align="left" style="color:#92E3A9">🐱‍💻 Statistics: </h2>
 
 <div>
     <a href="https://github.com/Antonio-Oliveira"></a>
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Antonio-Oliveira&show_icons=true&theme=radical&count_private=true" alt="Antonio-           Oliveira GitHub stats" />
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Oliveira&langs_count=10&theme=radical&&layout=compact"                 alt="Antonio-Oliveira Top languages" />
 </div>
-
-
-
-
-
 
 <!--
 **Antonio-Oliveira/Antonio-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
