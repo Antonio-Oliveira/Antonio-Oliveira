@@ -7,16 +7,16 @@
 &nbsp;
 
 <div align="center">
-    <a href="https://www.instagram.com/tonyjoliveira/">
+    <a href="https://www.instagram.com/tonyjoliveira/" target="_blank">
         <img alt="Intagram Tony Oliveira" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/tony.oliveira.1217">
+    <a href="https://www.facebook.com/tony.oliveira.1217" target="_blank">
         <img alt="Facebook Antonio Oliveira" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/tonyjoliveira">
+    <a href="https://www.linkedin.com/in/tonyjoliveira" target="_blank">
         <img alt="Linkedin Antonio Oliveira" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:antonio_jorge15@hotmail.com">
+    <a href="mailto:antonio_jorge15@hotmail.com" target="_blank">
         <img alt="Hotmail Antonio Oliveira" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
 </div>
